@@ -1,16 +1,56 @@
-# ai_app_store
+# 🚀 AI App Store
 
-A new Flutter project.
+AI App Store v1.0 — A powerful platform to discover, explore, and download AI-powered applications.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Firebase Authentication (Login & Signup)
+- 📱 AI Apps Listing
+- ⬇️ Real APK Download Support
+- 🎨 Clean & Modern UI
+- ⚡ Fast Performance
+- 🌐 Web + Mobile Support
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter (Frontend)
+- Firebase (Auth + Hosting)
+- GitHub (Deployment & CI/CD)
+
+---
+
+## 📦 Download APK
+
+👉 Download latest version from Releases section.
+
+---
+
+## 🌍 Live Demo
+
+(Coming Soon via Firebase Hosting 🚀)
+
+---
+
+## 📌 Future Plans
+
+- 🤖 AI-based App Recommendation System
+- 📊 Developer Dashboard
+- 🧠 Smart Search (AI Powered)
+- 💬 User Reviews & Ratings
+- 🌎 Global App Store Ecosystem
+
+---
+
+## 👨‍💻 Developer
+
+Built with ❤️ by Tinku Kumar
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
